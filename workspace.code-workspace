@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../UCB-BER-DATA-PT-02-2020-U-C/01-Lesson-Plans/17-Mapping-Web"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "leaflet-challenge"
+	}
+}
